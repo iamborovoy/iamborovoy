@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Привет!
+#### Меня зовут Арсений
+#### Начинающий тестировщик, системный и сетевой администратор
 <!--
 **iamborovoy/iamborovoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
